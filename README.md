@@ -1,0 +1,1 @@
+Merge sort method built using a recursive function. Made with Ruby for The Odin Project.
